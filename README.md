@@ -1,8 +1,6 @@
 Hi, I am Siddharth
 
-- I am a Rust blockchain developer with most of my experience in substrate framework.
-- Currently dedicated to advancing expertise in Rust backend development and networking.
-- Actively looking for new opportunities in rust ecosystem.
+- I write crap(🦀) code.
 
 <h3 align="center">Connect with me</h3>
 
